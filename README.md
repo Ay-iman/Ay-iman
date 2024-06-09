@@ -15,7 +15,7 @@ With 3 years of experience in full-stack development, I have a strong foundation
 I am passionate about collaborating with cross-functional teams to deliver high-quality software solutions that meet business requirements. I bring a problem-solving mindset, attention to detail, and a keen eye for clean design. I believe in continuous improvement and am dedicated to writing efficient, well-documented code that is easy to maintain and extend.
 
 📫 How to reach me:
-I'm always open to connecting and collaborating with fellow developers, tech enthusiasts, and potential employers. Feel free to reach out to me via email at ayomiderabiu00@gmail.com. You can also find me on LinkedIn(https://www.linkedin.com/in/rabiu-abdulrazak/) for professional networking opportunities.
+I'm always open to connecting and collaborating with fellow developers, tech enthusiasts, and potential employers. Feel free to reach out to me via email at ayomiderabiu00@gmail.com. You can also find me on Twitter X (https://x.com/Ayo_iman) for professional networking opportunities.
 
 ⚡ Fun fact:
 When I'm not coding, you can find me exploring the great outdoors, or experimenting with new recipes in the kitchen. I believe in maintaining a healthy work-life balance to stay inspired and energized.
